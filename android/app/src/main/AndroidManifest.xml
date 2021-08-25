@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.xylophone_flutter">
    <application
-        android:label="xylophone_flutter"
+        android:label="Flutter Xylophone"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
